@@ -1,2 +1,16 @@
-# run-buddy-2
-source code for the updated run buddy web page
+# Run Buddy, Inc
+
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
